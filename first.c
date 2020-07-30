@@ -8,5 +8,5 @@ int main()
   {
     res = res ^ arr[i];
   }
-  printf("result is = %d", res);
+  printf("Unique element is = %d", res);
 }
